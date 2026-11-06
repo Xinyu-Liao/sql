@@ -59,7 +59,7 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 ```
 Your answer...
 ```
-
+retaining changes is type 2, and overwriting is type1
 ***
 
 ## Section 2:
